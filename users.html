@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SkillRock Test Users</title>
+    <link rel="stylesheet" href="css/users.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>
+                <span class="logo">
+                    <svg width="32" height="32">
+                        <use href="#logo" stroke="#007fa2"></use>
+                    </svg>
+                </span>
+                Загрузка пользователей
+            </h1>
+            <button class="download-button">Загрузить</button>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="content">
+            <ul class="user-list"></ul>
+            <div class="loader">
+                <div class="lds-ripple"><div></div><div></div></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/users.js"></script>
+
+    <svg style="display:none;" xmlns="http://www.w3.org/2000/svg">
+        <symbol id="logo" viewBox='0 0 24 24'>
+            <rect width='24' height='24' stroke='none' opacity='0'/>
+            <g transform="matrix(0.83 0 0 0.83 12 12)" >
+            <g>
+            <g transform="matrix(1 0 0 1 -6 -8.25)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-6, -3.75)" d="M 3 3.75 C 3 5.406854249492381 4.343145750507619 6.75 6 6.75 C 7.656854249492381 6.75 9 5.406854249492381 9 3.75 C 9 2.0931457505076194 7.656854249492381 0.75 6 0.75 C 4.343145750507619 0.75 3 2.0931457505076194 3 3.7499999999999996 Z" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 -6.35 3.75)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-5.65, -15.75)" d="M 10.555 10.888 C 9.37079327317397 8.825088767933613 6.947786083009872 7.815860277928809 4.649301371984089 8.428164415124051 C 2.3508166609583068 9.040468552319293 0.7509999659251658 11.121355990629572 0.75 13.500000000000002 L 0.75 15.75 L 3 15.75 L 3.75 23.25 L 8.25 23.25 L 8.573 20.018" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 5.25 5.25)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-17.25, -17.25)" d="M 11.25 17.25 C 11.25 20.56370849898476 13.936291501015239 23.25 17.25 23.25 C 20.56370849898476 23.25 23.25 20.56370849898476 23.25 17.25 C 23.25 13.936291501015239 20.56370849898476 11.25 17.25 11.25 C 13.936291501015239 11.25 11.25 13.936291501015239 11.25 17.25 Z" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 5.25 5.25)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-17.25, -17.25)" d="M 17.25 14.25 L 17.25 20.25" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 4.13 7.13)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-16.13, -19.13)" d="M 17.25 20.25 L 15 18" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 6.38 7.13)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-18.38, -19.13)" d="M 17.25 20.25 L 19.5 18" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 4.5 -8.63)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-16.5, -3.38)" d="M 13.875 3.375 C 13.875 4.824747468305833 15.050252531694166 6 16.5 6 C 17.949747468305834 6 19.125 4.824747468305833 19.125 3.375 C 19.125 1.925252531694167 17.949747468305834 0.75 16.5 0.75 C 15.050252531694166 0.75 13.875 1.9252525316941669 13.875 3.3749999999999996 Z" stroke-linecap="round" />
+            </g>
+            <g transform="matrix(1 0 0 1 4.76 -4.12)" >
+            <path style="stroke-width: 1.5; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-16.76, -7.88)" d="M 20.4 9 C 19.673630822784133 7.742697239455834 18.385207558202218 6.913150944188988 16.940014186221248 6.772301624476361 C 15.494820814240281 6.631452304763732 14.07046894399343 7.196610083115214 13.115 8.289999999999996" stroke-linecap="round" />
+            </g>
+            </g>
+            </g>
+        </symbol>
+    </svg>
+</body>
+</html>
