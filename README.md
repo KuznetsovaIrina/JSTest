@@ -1,11 +1,11 @@
-1. Задание 1: Основы алгоритмического мышления и решения задач.
+1. Задание 1: Основы алгоритмического мышления и решения задач. <br>
   js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/base.js
 
-2. Задание 2: Манипуляции с DOM. Приложение для списка дел.
-  демо: https://kuznetsovairina.github.io/JSTest/tasks.html
-  html: https://github.com/KuznetsovaIrina/JSTest/blob/master/tasks.html 
-  css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/tasks.css
-  js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/tasks.js
+2. Задание 2: Манипуляции с DOM. Приложение для списка дел. <br>
+  демо: https://kuznetsovairina.github.io/JSTest/tasks.html <br>
+  html: https://github.com/KuznetsovaIrina/JSTest/blob/master/tasks.html <br>
+  css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/tasks.css <br>
+  js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/tasks.js <br>
 
 3. Задание 3: Асинхронное программирование с использованием API.
    3.1 Fetch API — Случайные пользователи
