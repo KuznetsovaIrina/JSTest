@@ -13,7 +13,7 @@
      html: https://github.com/KuznetsovaIrina/JSTest/blob/master/users.html <br>
      css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/users.css <br>
      js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/users.js <br>
-
+<br><br>
    3.2 Карусель изображений <br>
      демо: https://kuznetsovairina.github.io/JSTest/carousel.html <br>
      html: https://github.com/KuznetsovaIrina/JSTest/blob/master/carousel.html <br>
@@ -23,8 +23,9 @@
 4. Задание 4: Объектно-ориентированный JavaScript <br>
    5.1 Реализация простого калькулятора <br>
      js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/calculator.js <br>
+<br><br>
    5.2 Система управления библиотекой <br>
      js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/library.js <br>
 
-5. Задание 5: Решение проблем и оптимизация <br>
+6. Задание 5: Решение проблем и оптимизация <br>
   js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/optimization.js <br>
