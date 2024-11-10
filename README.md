@@ -7,24 +7,24 @@
   css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/tasks.css <br>
   js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/tasks.js <br>
 
-3. Задание 3: Асинхронное программирование с использованием API.
-   3.1 Fetch API — Случайные пользователи
-     демо: https://kuznetsovairina.github.io/JSTest/users.html
-     html: https://github.com/KuznetsovaIrina/JSTest/blob/master/users.html
-     css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/users.css
-     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/users.js
+3. Задание 3: Асинхронное программирование с использованием API. <br>
+   3.1 Fetch API — Случайные пользователи <br>
+     демо: https://kuznetsovairina.github.io/JSTest/users.html <br>
+     html: https://github.com/KuznetsovaIrina/JSTest/blob/master/users.html <br>
+     css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/users.css <br>
+     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/users.js <br>
 
-   3.2 Карусель изображений
-     демо: https://kuznetsovairina.github.io/JSTest/carousel.html
-     html: https://github.com/KuznetsovaIrina/JSTest/blob/master/carousel.html
-     css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/carousel.css
-     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/carousel.js
+   3.2 Карусель изображений <br>
+     демо: https://kuznetsovairina.github.io/JSTest/carousel.html <br>
+     html: https://github.com/KuznetsovaIrina/JSTest/blob/master/carousel.html <br>
+     css: https://github.com/KuznetsovaIrina/JSTest/blob/master/css/carousel.css <br>
+     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/carousel.js <br>
 
-4. Задание 4: Объектно-ориентированный JavaScript
-   5.1 Реализация простого калькулятора
-     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/calculator.js
-   5.2 Система управления библиотекой
-     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/library.js
+4. Задание 4: Объектно-ориентированный JavaScript <br>
+   5.1 Реализация простого калькулятора <br>
+     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/calculator.js <br>
+   5.2 Система управления библиотекой <br>
+     js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/library.js <br>
 
-5. Задание 5: Решение проблем и оптимизация
-  js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/optimization.js
+5. Задание 5: Решение проблем и оптимизация <br>
+  js: https://github.com/KuznetsovaIrina/JSTest/blob/master/js/optimization.js <br>
